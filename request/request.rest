@@ -1,0 +1,12 @@
+
+GET http://localhost:3001/api/persons
+
+###
+
+POST http://localhost:3001/api/persons
+
+content-type: application/json
+
+body: {"namea": "jjj",
+"number":"0432"
+}
